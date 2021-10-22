@@ -1,0 +1,408 @@
+.menu, nav{
+background-color: #C5D0CC;
+margin: 0;
+padding:0px;
+overflow:hidden;
+
+}
+
+.menu nav a{
+display: block;
+padding: 14px 16px;
+color: white;
+text-decoration: none;
+float: left;
+}
+
+.menu a:hover, .nav a:hover{
+background-color: lightblue;
+}
+
+.header{
+    padding:15px;
+    background-color:#C5D0CC;
+}
+.aboutus{
+  text-align: left;
+  color:black;
+  font-family: monospace;
+  background-color:#C5D0CC;
+}
+
+.logoaktivita{
+  padding:25px;
+  float: center;
+}
+h1{
+  font-size: 300 px;
+  font-weight: 600;
+  text-align: center;
+  font-family:inherit;
+}
+
+h2{
+  font-size: 150 px;
+  font-weight: 600;
+  text-align: center;
+}
+
+h3{
+  font-size: 100 px;
+  font-weight: 150;
+}
+
+.OurMission {
+  padding: 25px;
+    background-color:#C5D0CC;
+      text-align: left;
+      display: inline-block;
+      float: left;
+}
+
+.References{
+  background-color:#C5D0CC;
+    text-align: left;
+    display: inline-block;
+    float: right;
+}
+
+h4{
+  font-size: 70 px;
+  font-weight: 100;
+}
+
+body{
+  background-color:#eff0ea;
+  color:#eff0ea;
+
+}
+
+
+
+.contact-title{
+  background-color:#C5D0CC;
+  font-size: 32px;
+  line-height: 10px;
+    float: center;
+}
+
+form{
+  margin top: 40px;
+  transition: all 4s ease-in-out;
+    float: center;
+}
+
+.form-control{
+  width: 700px;
+  background-color:#C5D0CC;
+  length: 700px
+  border:  60px black;
+  outline; black;
+  border: 3px black
+  color: white;
+  font-size: 18px;
+  margin: 30px;
+  float: center;
+
+}
+
+.Pricing{
+  background-color:#C5D0CC;
+}
+
+.Yogasetblack{
+  background-color:#C5D0CC;
+  display: inline-block;
+  float: left;
+  text-align: left;
+}
+.AKblack{
+  float: left;
+    background-color:#C5D0CC;
+}
+
+.Yogasetwhite{
+  background-color:#C5D0CC;
+  display: inline-block;
+  float:left;
+
+}
+.AKwhite{
+  background-color:#C5D0CC;
+  display: inline-block;
+  float:left;
+}
+
+.AKgreen{
+  background-color:#C5D0CC;
+  display: inline-block;
+  float:left;
+}
+
+.Yogasetgreen{
+  background-color:#C5D0CC;
+  display: inline-block;
+  float: left;
+}
+.YOGASETS{
+  padding:5px;
+  background-color:#C5D0CC;
+  text-align: center;
+}
+
+.Yogatext{
+  background-color:#C5D0CC;
+  text-align: center;
+  float: center;
+}
+
+.AKYOGAMAT{
+  padding:5px;
+  background-color:#C5D0CC;
+  text-align: center;
+}
+
+.Yogamattext{
+  background-color:#C5D0CC;
+  text-align: center;
+  float: center;
+}
+
+.Yogamats{
+  background-color:#C5D0CC;
+  display: inline-block;
+  float: left;
+}
+
+.AKmat{
+  background-color:#C5D0CC;
+  display: inline-block;
+  float:left;
+}
+
+.AKbottles{
+  padding:5px;
+  background-color:#C5D0CC;
+  text-align: center;
+}
+
+.bottles{
+  background-color:#C5D0CC;
+  text-align: center;
+  float: center;
+}
+
+.Flask101{
+  background-color:#C5D0CC;
+  display: inline-block;
+  float: left;
+}
+
+.AK101{
+  background-color:#C5D0CC;
+  display: inline-block;
+  float:left;
+}
+
+.logoaktivita{
+  display: inline-block;
+  float: right;
+}
+
+.Flask102{
+  background-color:#C5D0CC;
+  display: inline-block;
+  float: left;
+}
+
+.AK102{
+  background-color:#C5D0CC;
+  display: inline-block;
+  float:left;
+}
+
+.location{
+    background-color:#C5D0CC;
+    float: center;
+    text-align: center;
+}
+
+
+.sports{
+  padding:5px;
+  background-color:#C5D0CC;
+  text-align: center;
+}
+
+
+.basketball{
+  background-color:#C5D0CC;
+  display: inline-block;
+  float: center;
+  text-align: center;
+  border: 10px solid #C5D0CC;
+}
+
+.hockey{
+  background-color:#C5D0CC;
+  display: inline-block;
+  float: center;
+  text-align:center;
+  border: 10px solid #C5D0CC;
+}
+
+.track{
+  background-color:#C5D0CC;
+  display: inline-block;
+  float: center;
+  text-align: center;
+  border: 10px solid #C5D0CC;
+}
+
+.football{
+  background-color:#C5D0CC;
+  display: inline-block;
+  float: center;
+  text-align: center;
+  border: 10px solid #C5D0CC;
+}
+
+.karate{
+  background-color:#C5D0CC;
+  display: inline-block;
+  float: center;
+  text-align: center;
+  border: 10px solid #C5D0CC;
+}
+
+.yogamed{
+  background-color:#C5D0CC;
+  display: inline-block;
+  float: center;
+  text-align: center;
+  border: 10px solid #C5D0CC;
+}
+
+.daily{
+  background-color:#C5D0CC;
+  display: inline-block;
+  float: center;
+  text-align: center;
+  border: 10px solid #C5D0CC;
+}
+
+.art{
+  padding:5px;
+  background-color:#C5D0CC;
+  text-align: center;
+}
+
+
+.dance{
+  background-color:#C5D0CC;
+  display: inline-block;
+  float: center;
+  text-align: center;
+  border: 10px solid #C5D0CC;
+}
+
+.acting{
+  background-color:#C5D0CC;
+  display: inline-block;
+  float: center;
+  text-align: center;
+  border: 10px solid #C5D0CC;
+}
+
+.Art{
+  background-color:#C5D0CC;
+  display: inline-block;
+  float: center;
+  text-align: center;
+  border: 10px solid #C5D0CC;
+}
+
+.pottery{
+  background-color:#C5D0CC;
+  display: inline-block;
+  float: center;
+  text-align: center;
+  border: 10px solid #C5D0CC;
+
+  }
+
+  .photo{
+    background-color:#C5D0CC;
+    display: inline-block;
+    float: center;
+    text-align: center;
+    border: 10px solid #C5D0CC;
+  }
+
+.ict{
+  padding:5px;
+  background-color:#C5D0CC;
+  text-align: center;
+}
+
+.ICT{
+  background-color:#C5D0CC;
+  display: inline-block;
+  float: center;
+  text-align: center;
+  border: 10px solid #C5D0CC;
+}
+
+.food{
+  padding:5px;
+  background-color:#C5D0CC;
+  text-align: center;
+}
+
+.collage{
+    text-align: center;
+}
+.cooking{
+  background-color:#C5D0CC;
+  display: inline-block;
+  float: center;
+  text-align: center;
+  border: 10px solid #C5D0CC;
+
+  }
+
+  .pastery{
+    background-color:#C5D0CC;
+    display: inline-block;
+    float: center;
+    text-align: center;
+    border: 10px solid #C5D0CC;
+  }
+.contacts{
+  padding: 50px;
+  border: black;
+}
+
+.menu, footerbar{
+background-color: #C5D0CC;
+margin: 0;
+padding:0px;
+overflow:hidden;
+
+}
+
+.menu a, .footerbar a{
+display: block;
+padding: 14px 16px;
+color: navy blue;
+text-decoration: none;
+float: left;
+}
+
+.menu a:hover, .footerbar a:hover{
+background-color: lightblue;
+}
+
+.button{
+  float:right;
+}
